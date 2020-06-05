@@ -2,6 +2,10 @@
 
 A snake game made to run specifically on the Microzed Evaluation Kit (Xylinx Zynq 7Z010).
 
+## Compilation and Launching
+- If you have the required board with all the accessories, then you can compile using Makefile (modify for your needs) (`make`)
+- Then to launch the game use `make run`.
+
 ## Before the Game
 
 ### Loading
